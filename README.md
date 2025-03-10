@@ -2,4 +2,4 @@
 
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Starko00?cardType=level-alternate&theme=github-dark&preferLogin=false&Background=DDDDDD)](https://git.io/awesome-stats-card)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Starko00)](https://github.com/ashutosh00710/github-readme-activity-graph)
